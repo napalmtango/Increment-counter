@@ -38,6 +38,8 @@ button {
     width: 125px;
     margin-bottom: 5px;
     border-radius: 5px;
+    font-size: .85rem;
+    letter-spacing: .8;
 }
 
 #increment-btn {
