@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Rum+Raisin&display=swap');
 
 @media screen and (max-width: 375px) {
-  .button {font-size: 1rem;}
+  .button {font-size: 16px;}
 }
 
 body {
