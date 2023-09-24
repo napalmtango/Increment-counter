@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Rum+Raisin&display=swap');
 
+@media screen and (max-width: 375px) {
+  .button {font-size: 1rem;}
+}
+
 body {
     background: silver;
     background-image: linear-gradient(to right, #959595, silver 20%, silver 80%, #959595);
